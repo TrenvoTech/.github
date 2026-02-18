@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/706e8bf3-5331-499a-9b31-15a53eedc139" width="180"/>
 </p>
 
-
-
 <h1 align="center">🚀 Trenvo Tech</h1>
 
 <p align="center">
@@ -22,14 +20,15 @@ We specialize in building modern, scalable, and user-friendly applications.
 ---
 
 ## 💻 Our Services
-✅ Web Application Development  
-✅ Mobile App Development  
-✅ ERP & Business Systems  
-✅ AI-Powered Solutions & Automation
-✅ Cloud & System Integration  
-✅ UI/UX Design & Branding
-✅ Quality Assurance and Testing
-✅ Technical Consultning & Support
+ ✅ Web Application Development  
+ ✅ Mobile App Development  
+ ✅ ERP & Automation Platforms  
+ ✅ AI-Powered Solutions & Automation  
+ ✅ Cloud-Based Enterprise Solutions  
+ ✅ UI/UX Design & Branding  
+ ✅ SaaS Applications  
+ ✅ Technical Consulting & Support
+
 
 ---
 
@@ -68,7 +67,6 @@ We specialize in building modern, scalable, and user-friendly applications.
 
 ## 📬 Connect With Us
 💼 LinkedIn: YOUR_LINKEDIN_URL  
-🎯 Fiverr: YOUR_FIVERR_LINK  
 📧 Email: trenvotech@gmail.com  
 
 ---
