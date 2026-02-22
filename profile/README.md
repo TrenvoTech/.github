@@ -66,7 +66,7 @@ We specialize in building modern, scalable, and user-friendly applications.
 ---
 
 ## 📬 Connect With Us
-💼 LinkedIn: YOUR_LINKEDIN_URL  
+💼 LinkedIn: [TrenvoTech](https://www.linkedin.com/company/trenvo-tech-cm/)
 📧 Email: trenvotech@gmail.com  
 
 ---
