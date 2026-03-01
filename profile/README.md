@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/706e8bf3-5331-499a-9b31-15a53eedc139" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=1yjGM5xsjSuWfMzJdmEWNLf1ab7IN9K5X" width="100"/>
 </p>
 
 <h1 align="center">🚀 Trenvo Tech</h1>
