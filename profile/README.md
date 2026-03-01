@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1yjGM5xsjSuWfMzJdmEWNLf1ab7IN9K5X" width="100"/>
+  <img 
+    src="https://drive.google.com/uc?export=view&id=1yjGM5xsjSuWfMzJdmEWNLf1ab7IN9K5X" 
+    width="80"
+  />
 </p>
 
 <h1 align="center">🚀 Trenvo Tech</h1>
